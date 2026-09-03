@@ -79,3 +79,10 @@ Une fois la restauration terminée, vous n'avez plus qu'à relancer votre instan
 # Relancer l'instance avec les données restaurées
 odev run ma_db
 ```
+
+## 6. Accéder à l'interface Odoo
+Une fois votre instance lancée (avec la commande odev run), vous pouvez y accéder directement depuis votre navigateur web.
+
+👉 Cliquez sur ce lien pour ouvrir la page : http://localhost:8069
+
+(Ou tapez simplement http://localhost:8069 dans la barre d'adresse de votre navigateur).
