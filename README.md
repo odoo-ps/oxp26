@@ -91,3 +91,11 @@ Une fois votre instance lancée (avec la commande odev run), vous pouvez y accé
 > Lors de votre arrivée sur la page de connexion de votre nouvelle base de données, utilisez les accès par défaut :
 > * **Email / Utilisateur :** `admin`
 > * **Mot de passe :** `admin`
+
+
+## 7. Arrêter l'instance de Odoo
+
+```bash
+# Dans la console
+ctrl + c
+```
