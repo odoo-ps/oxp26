@@ -86,3 +86,8 @@ Une fois votre instance lancée (avec la commande odev run), vous pouvez y accé
 👉 Cliquez sur ce lien pour ouvrir la page : http://localhost:8069
 
 (Ou tapez simplement http://localhost:8069 dans la barre d'adresse de votre navigateur).
+
+> 🔐 **Identifiants de connexion :**
+> Lors de votre arrivée sur la page de connexion de votre nouvelle base de données, utilisez les accès par défaut :
+> * **Email / Utilisateur :** `admin`
+> * **Mot de passe :** `admin`
